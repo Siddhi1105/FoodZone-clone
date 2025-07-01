@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": 220,
+    "type": "Pizza",
+    "description": "Classic Italian pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+    "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/margherita-pizza-4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pasta Alfredo",
+    "price": 240,
+    "type": "Pasta",
+    "description": "Creamy white sauce pasta made with penne, cheese, and herbs.",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.FbK8F_VbYoFMQfrxKVXk2QHaFj&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 3,
+    "name": "Bruschetta",
+    "price": 110,
+    "type": "Starter",
+    "description": "Toasted bread topped with fresh tomato, garlic, olive oil, and basil.",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.4-aDQrUwyM6B6vxTZrXAJAHaEz&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 4,
+    "name": "Penne Arrabiata",
+    "price": 200,
+    "type": "Pasta",
+    "description": "Spicy red sauce pasta made with chili flakes, tomato, garlic, and olive oil.",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.oodE1wJoKm-gyJDKX8svkgHaJQ&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 5,
+    "name": "Cheese Garlic Bread",
+    "price": 90,
+    "type": "Side",
+    "description": "Garlic buttered bread topped with mozzarella and herbs, oven-baked to perfection.",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.DBaspJ8tJRdOq6ub8ljVGwHaLH&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 6,
+    "name": "Risotto",
+    "price": 250,
+    "type": "Main Course",
+    "description": "Creamy rice dish cooked slowly with white wine, cheese, and vegetable stock.",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.N80rP_3EKh6VxxRqmhxKkQHaE8&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 7,
+    "name": "Lasagna",
+    "price": 260,
+    "type": "Baked Dish",
+    "description": "Layered pasta with béchamel, cheese, and tomato-based sauce, baked golden.",
+    "img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Best-Lasagna_exps36333__TH133086D07_23_6b_RMS-6.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Caprese Salad",
+    "price": 130,
+    "type": "Salad",
+    "description": "Fresh mozzarella, tomatoes, and basil with olive oil and balsamic drizzle.",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.fTyNc2YI2c7ZNoIKrIm0igHaLH&pid=Api&P=0&h=180"
+  }
+]

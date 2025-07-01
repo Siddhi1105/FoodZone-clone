@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Poha",
+    "price": 50,
+    "type": "Maharashtrian",
+    "description": "Flattened rice sautéed with onions, mustard seeds, turmeric, and peanuts. Light, tasty, and nutritious.",
+    "img": "https://i.pinimg.com/originals/27/01/1a/27011a33efb0da3ba63c33ed0a463c09.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Upma",
+    "price": 60,
+    "type": "South Indian",
+    "description": "A savory dish made with semolina, vegetables, and tempering spices. Served hot with coconut chutney.",
+    "img": "https://myfoodstory.com/wp-content/uploads/2022/11/Vegetable-Upma-3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Masala Dosa",
+    "price": 100,
+    "type": "South Indian",
+    "description": "Crispy fermented rice crepe filled with spicy mashed potatoes, served with sambar and chutney.",
+    "img": "https://i.pinimg.com/originals/82/87/7b/82877b520bddd7d663ce747108955afc.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Aloo Paratha",
+    "price": 90,
+    "type": "North Indian",
+    "description": "Stuffed flatbread with spicy mashed potatoes, served hot with butter, curd, or pickle.",
+    "img": "https://pipingpotcurry.com/wp-content/uploads/2022/11/Aloo-Paratha-Best-Recipe-Piping-Pot-Curry.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sabudana Khichdi",
+    "price": 70,
+    "type": "Fasting Food",
+    "description": "Soaked tapioca pearls sautéed with peanuts, potatoes, and green chili. A popular breakfast during fasts.",
+    "img": "https://www.cookclickndevour.com/wp-content/uploads/2015/05/sabudana-khichdi-for-fasting.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bread Omelette",
+    "price": 80,
+    "type": "Continental",
+    "description": "Toasted bread with a fluffy omelette filled with onions, chilies, and fresh herbs.",
+    "img": "http://2.bp.blogspot.com/-gajwrIN3HZk/T_xnpSk971I/AAAAAAAARCU/Gb09l_Tg8j4/s1600/bo+s+two.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Puran Poli",
+    "price": 100,
+    "type": "Maharashtrian Sweet",
+    "description": "Sweet stuffed flatbread made with jaggery and chana dal, perfect for a festive morning.",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.CHHBrzfAh0g5crzD5z7R3wHaEo&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 8,
+    "name": "Vegetable Sandwich",
+    "price": 60,
+    "type": "Fast Food",
+    "description": "Fresh sandwich with layers of cucumber, tomato, onion, and mint chutney between grilled bread.",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.OMXorUnUEa23ZxMWYFxG4QHaEK&pid=Api&P=0&h=180"
+  }
+]

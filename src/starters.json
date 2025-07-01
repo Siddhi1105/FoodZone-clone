@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Tikka",
+    "price": 150,
+    "type": "Tandoori",
+    "description": "Grilled chunks of paneer marinated in spicy yogurt-based masala, served with mint chutney.",
+    "img": "https://sultancottage.uk/wp-content/uploads/2020/11/Paneer-Tikka.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Spring Rolls",
+    "price": 120,
+    "type": "Chinese",
+    "description": "Crispy fried rolls stuffed with spiced veggies, served with sweet chili sauce.",
+    "img": "https://i.ytimg.com/vi/qIjT-Fxng-I/maxresdefault.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hara Bhara Kebab",
+    "price": 130,
+    "type": "Veg Starter",
+    "description": "Green veggie patties made with spinach, peas, and spices. Served hot with chutney.",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.tSASlApi0DxmqBw2K_Cm9QHaFj&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Lollipop",
+    "price": 180,
+    "type": "Non-Veg",
+    "description": "Deep-fried chicken wings in Indo-Chinese style, crispy outside and juicy inside.",
+    "img": "https://freshprotino.com/wp-content/uploads/2021/03/maxresdefault-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Corn Cheese Balls",
+    "price": 140,
+    "type": "Cheesy",
+    "description": "Golden-fried balls loaded with sweet corn and molten cheese, crunchy and creamy.",
+    "img": "https://i.ytimg.com/vi/JYxfTLtTYVc/maxresdefault.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tandoori Mushrooms",
+    "price": 150,
+    "type": "Tandoori Veg",
+    "description": "Button mushrooms marinated in spicy tandoori masala and grilled to perfection.",
+    "img": "https://i1.wp.com/cookingfromheart.com/wp-content/uploads/2017/02/Tandoori-Mushroom-Tikka-2.jpg?resize=1024%2C683&ssl=1"
+  },
+  {
+    "id": 7,
+    "name": "Crispy Baby Corn",
+    "price": 135,
+    "type": "Veg Starter",
+    "description": "Deep-fried baby corn tossed with Indo-Chinese sauces, served hot and spicy.",
+    "img": "https://i.ytimg.com/vi/Qkqm7kqJX4s/maxresdefault.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Stuffed Potato Skins",
+    "price": 160,
+    "type": "Fusion",
+    "description": "Potato skins stuffed with cheese, veggies, and spices, baked to golden crispiness.",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.tYxyT2PGSRx4yB-ur0tN3gHaLH&pid=Api&P=0&h=180"
+  }
+]
