@@ -1,14 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Home from "../PageRouting/Home";
-import Dine from "../PageRouting/Dine"; 
-import Delivery from "../PageRouting/Delivery";
-import Contact from "../PageRouting/Contact";
-import Carts from "../PageRouting/Carts";
-import Breakfast from "../Menu/Breakfast";
-import Starters from "../Menu/Starters";    
-import Maincourse from "../Menu/Maincourse";
-import Italian from "../Menu/Italian";
+
  // Assuming you have a CSS file for styling
 
 function Landing() {

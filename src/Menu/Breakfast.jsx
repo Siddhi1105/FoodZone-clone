@@ -14,9 +14,9 @@ const Breakfast = () => {
       <li><Link to="/dine"className="text">Dine-In</Link></li>
       <li><Link to="/delivery" className="text">Delivery</Link></li>
       <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <Link className="nav-link dropdown-toggle" to="/#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Menu
-          </a>
+          </Link>
           <ul className="dropdown-menu">
          
             <li><Link className="dropdown-item" to="/breakfast">Break-Fast</Link></li>
