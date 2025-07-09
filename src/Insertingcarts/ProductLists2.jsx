@@ -17,7 +17,7 @@ const ProductLists2= (prodList2) => {
                             <span className="topTemptitleard-">{data.name}</span>                        
                         </div>
                         <div className='card-body'>
-                            <span className="card-title"> {data.type}</span>
+                            {/* <span className="card-title"> {data.type}</span> */}
                             <h4 class ="card-title">{data.description}</h4> 
                             <div className='card=text'>
                                 <p className="day">Rs. {data.price}</p>

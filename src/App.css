@@ -56,10 +56,11 @@ nav {
 .right-section {
   display: flex;
   align-items: center;
-  gap: 15px;
-  flex-wrap: wrap;
-  margin-top: 10px;
+  gap: 10px;
+  flex-wrap: nowrap;
+  margin-top: 0;
 }
+
 
 .location-input {
   padding: 6px 10px;
@@ -71,12 +72,13 @@ nav {
 
 .cart-btn {
   background-color: white;
-  color: #ff5722;
-  padding: 7px 14px;
+  color: #fa8866;
+  /* padding: 7px 14px; */
   border: none;
   border-radius: 5px;
   font-weight: bold;
   cursor: pointer;
+  width: 50px;
   
 }
 

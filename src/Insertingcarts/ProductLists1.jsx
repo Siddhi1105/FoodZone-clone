@@ -1,5 +1,5 @@
 import React from 'react';  
-import '../App.css';
+import '../Carts.css';
 
 const ProductLists1= (prodList1) => {
     const renderList = ({prodList1}) => {
@@ -17,7 +17,7 @@ const ProductLists1= (prodList1) => {
                             <span className="topTemptitleard-">{data.name}</span>                        
                         </div>
                         <div className='card-body'>
-                            <span className="card-title"> {data.type}</span>
+                            {/* <span className="card-title"> {data.type}</span> */}
                             <h4 className="card-title">{data.description}</h4> 
                             <div className='card=text'>
                                 <p className="day">Rs. {data.price}</p>
