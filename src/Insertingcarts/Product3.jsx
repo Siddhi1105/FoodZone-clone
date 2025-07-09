@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import '../App.css';
+import '../Carts.css';
 import JSON3 from '../italian.json';
 import ProductLists3 from './ProductLists3';
 
@@ -8,7 +8,7 @@ class Product3 extends Component{
     {
     super();
     this.state={
-        title3:"Italian",
+       /*  title3:"Italian", */
         products3: JSON3
     }
    }
